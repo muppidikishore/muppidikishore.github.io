@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .card {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          max-width: 300px;
+          margin: auto;
+          text-align: center;
+          font-family: arial;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align:center">ID CARD</h2>
+    <div class="card">
+        <img src="SASI-LOGO-960x188-1-800x157-1.png" style="background-color: pink;" width="300">
+        <img src="images.jpg" alt="kishore" style="width:50%">
+        <h3 style="color:green">KISHORE</h3>
+        <h3 style="color:blue">B.Tech-CSE</h3>
+        <h3 style="color:blue">23K61A05C2</h3>
+        <img src="barcode.gif" width="150">
+        <p style="text-align:left;" width=40%>
+            Adhar No: 2034568921
+            <span style="float:right;">
+                Valid: 2027
+            </span>
+        </p>
+        <p style="text-align:left;">
+            Father :pandu    
+            <span style="float:right;">
+                B.G : A+
+            </span>
+        </p>
+        <p style="text-align:left;">
+            Village : Rajuhmundry
+            <span style="float:right;">
+                <img src ="thumb_1200_849.png">
+            </span>
+        </p>
+        <p style="text-align:left;">
+            Cell:1234567895
+        </p>
+</body>
+</html>
