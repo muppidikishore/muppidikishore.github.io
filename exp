@@ -14,7 +14,7 @@
 <body>
     <h2 style="text-align:center">ID CARD</h2>
     <div class="card">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2OhTWWLuqdqM8vchX-yqtanUHH86NWKcjQ&s" style="background-color: pink;" width="300">
+        <img src="https://thevedamschool.in/wp-content/uploads/2023/01/SASI-LOGO-960x188-1-1.png" style="background-color: pink;" width="250" height="70">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2F1sRrmj0rFgZyVmC8yBgXxyccFRJf7LPQ&s" alt="kishore" style="width:50%">
         <h3 style="color:green">KISHORE</h3>
         <h3 style="color:blue">B.Tech-CSE</h3>
